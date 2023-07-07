@@ -16,7 +16,7 @@
    args:
    - 'run'
    - 'deploy'
-   - 'naren-dep'
+   - 'chandra-dep'
    - '--image'
    - 'gcr.io/$PROJECT_ID/chandra-dep:$COMMIT_SHA'
    - '--region'
